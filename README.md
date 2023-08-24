@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhhOTM2NnRwMDVmN203bGc2ajFwcnMwdmx1bWYxcGhydDVhOTByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360"/>
 </div>
 
-<h4 align="left"></h4>
 How to reach me: **hrskhamid@gmail.com** 📫
 <h3 align="left">Connect with me:</h3>
 <p align="left">
