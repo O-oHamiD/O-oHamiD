@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm ツ HamiD</h1>
-<h3 align="center">A EE Engineer from IR.</h3>
+<h3 align="center">An EE Engineer from IR.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhhOTM2NnRwMDVmN203bGc2ajFwcnMwdmx1bWYxcGhydDVhOTByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360"/>
 </div>
 
-
-📫 How to reach me: **hrskhamid@gmail.com**
+<h4 align="left"></h4>
+How to reach me: **hrskhamid@gmail.com** 📫
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/o_ohamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="o_ohamid" height="30" width="40" /></a>
 <a href="https://instagram.com/o_o.hamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_o.hamid" height="30" width="40" /></a>
-<a href="https://discord.gg/783081863542603786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="783081863542603786" height="30" width="40" /></a>
+<a href="https://discord.gg/783081863542603786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="783081863542603786" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
